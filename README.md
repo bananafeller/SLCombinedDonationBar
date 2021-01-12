@@ -1,6 +1,7 @@
 # Combined Donation Bar
 
 Progress bar for goals that combines streamlabs donations and cheers.
+other option to check out: https://codepen.io/stemlund/pen/Bkvyj
 
 ## Installation
 
